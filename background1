@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>하늘아래</title>
+        <link href="../data/style/default.css" rel="stylesheet">    <!-마치 c언어의 헤더파일을 포함시켜주는 것과 비슷-->
+    </head>
+    <body>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <div class="content">
+            아름다운 절경ㅎㅎ
+        </div>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    </body>
+</html>
